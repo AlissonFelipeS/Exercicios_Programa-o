@@ -1,0 +1,5 @@
+#Execute o type()
+N = input("Digite o valor desejado")
+print("O valor desejado é:", N)
+print("O tipo de variavel é:" type(N))
+input("Aperte ENTER para fechar a janela...")
